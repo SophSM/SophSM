@@ -22,7 +22,7 @@ class Sofia(Bioinformatician):
         "Statistics"
       ]
     self.education = {
-        2020: { "Universidad Nacional Autónoma de México (UNAM)" : "Genomic Sciences"
+        2020: { "Universidad Nacional Autónoma de México (UNAM)" : "B.S. Genomic Sciences"
         }
     }
     self.contact = {
