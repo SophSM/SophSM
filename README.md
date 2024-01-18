@@ -32,3 +32,6 @@ class Sofia(Bioinformatician):
   def __repr__(self):
     return "Welcome to my GitHub profile!, checkout my page for more information :D"
 ```
+
+me = Sofia()
+print(me)
